@@ -3,7 +3,7 @@
 1. Take in a URL
 2. Get website code
 3. Get website text
-4. Tokaniize text
+4. Tokanize text
 6. Find most common words
 5. Find part of speech
 6. Plug into template
