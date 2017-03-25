@@ -9,6 +9,6 @@
 6. Plug into template
 7. Generate tweet
 8. Show Jlabel
->I think we should rethink our structure and use old code but not fix old code...
->Dose that make sense?
+>I think we should rethink our structure and use old code but not fix old code... 
+>Does that make any sense?
 #### In Summary: Restart but reuse good code
