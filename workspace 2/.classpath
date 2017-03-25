@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="cue/language-master/src/|cue.language-master/src/|stanford-postagger-2016-10-31/|stanford-postagger-2016-10-31/" kind="src" path=""/>
+	<classpathentry kind="src" path="cue.language-master/src"/>
+	<classpathentry kind="src" path="stanford-postagger-2016-10-31"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
